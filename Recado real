@@ -1,0 +1,12 @@
+fun main()
+
+{
+var name = "Gordilha"
+var comprimento = "Olá"
+var estado = "estás?"
+
+println (comprimento) 
+println (name)
+println ("como")
+ println (estado)
+}
